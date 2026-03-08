@@ -14,15 +14,22 @@ status:
   icon: "🧬"
 role: Bioinformatics | Biochemistry | Data Science
 bio: |
-  Virginia is a curious and proactive bioinformatics professional with a passion for science
+  I am a curious and proactive bioinformatics professional with a passion for science
   and integrating biosciences with technology. With a strong foundation in biochemistry and
-  growing expertise in data analysis and machine learning, she is committed to continuous
+  growing expertise in data analysis and machine learning, I am committed to continuous
   learning and collaborative problem-solving. An accomplished athlete and outdoor enthusiast,
-  Virginia brings discipline, resilience, and teamwork to every project.
+  I bring discipline, resilience, and teamwork to every project.
 
 affiliations:
+  - name: Bioinformatics and Computational Biology Lab, IMDEA Food Institute
+    role: Research Assistant
+    url: https://www.imdea.org/en/food/
   - name: International University of La Rioja (UNIR)
+    role: MSc in Bioinformatics Student
     url: https://www.unir.net/
+  - name: Complutense University of Madrid (UCM)
+    role: BSc in Biochemistry Graduate
+    url: https://www.ucm.es/
 
 links:
   - icon: at-symbol
@@ -32,7 +39,7 @@ links:
     url: https://github.com/virzzu
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/virginia-garcía-loygorri/
-  - icon: brands/phone
+  - icon: phone
     url: tel:+34671773093
 
 interests:
