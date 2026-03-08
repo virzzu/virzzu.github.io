@@ -1,15 +1,16 @@
 ---
-title: PyTorch
-date: 2023-10-26
+title: Machine Learning & AI
+date: 2024-02-10
 links:
   - type: site
-    url: https://github.com/pytorch/pytorch
+    url: https://github.com/virzzu
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - Python
+  - Machine Learning
+  - Neural Networks
+  - R
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Machine learning models for biological prediction and classification tasks, including neural networks and statistical learning approaches.
 
 <!--more-->
