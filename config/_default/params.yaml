@@ -35,7 +35,7 @@ hugoblox:
     # Optional: Override theme pack colors
     colors:
       primary: "#2e7d32"                       # Professional green for bioinformatics
-      secondary: "#1565c0"                     # Complementary blue accent
+      secondary: "#6ec3f5"                     # Complementary blue accent
       neutral: "#424242"                       # Better contrast gray
     # Optional: Mode-specific color overrides
     colors_light: {}

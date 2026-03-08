@@ -18,7 +18,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: /cv.txt
+        url: /uploads/CV_EN_VirginiaGarciaLoygorri.pdf
       headings:
         about: 'Professional Summary'
         education: 'Education'
