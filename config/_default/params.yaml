@@ -21,7 +21,7 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: ""
     # Site meta description for search engines and social sharing
-    description: "MSc Bioinformatics | BSc Biochemistry | Former Student at 42 Madrid"
+    description: "Bioinformatics Researcher | Biochemistry | Data Science | Integrating Biosciences & Technology"
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -34,9 +34,9 @@ hugoblox:
     pack: "default"
     # Optional: Override theme pack colors
     colors:
-      primary: "#99c0ff"                       # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
-      secondary: "black"
-      neutral: ""                       # Affects gray utilities (text-gray-*, bg-gray-*)
+      primary: "#2e7d32"                       # Professional green for bioinformatics
+      secondary: "#1565c0"                     # Complementary blue accent
+      neutral: "#424242"                       # Better contrast gray
     # Optional: Mode-specific color overrides
     colors_light: {}
     colors_dark: {}

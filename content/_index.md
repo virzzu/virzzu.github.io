@@ -18,11 +18,11 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: /cv.txt
       headings:
-        about: ''
-        education: ''
-        interests: ''
+        about: 'About'
+        education: 'Education'
+        interests: 'Research Interests'
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
@@ -39,14 +39,16 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '� About Me'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm a bioinformatics professional and data scientist passionate about integrating biosciences with cutting-edge technology.
+        
+        With a strong foundation in biochemistry and growing expertise in machine learning and data analysis, I'm committed to solving real-world problems in precision medicine and computational biology.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Currently pursuing my **MSc in Bioinformatics** at UNIR while contributing to scientific research at Complutense University of Madrid. I believe in collaborative problem-solving, continuous learning, and bringing discipline and creativity to every project.
 
-        Please reach out to collaborate 😃
+        Let's collaborate and build something meaningful! 🚀
     design:
       columns: '1'
   - block: collection

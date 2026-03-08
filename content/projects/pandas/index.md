@@ -1,15 +1,15 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: Data Analysis & Visualization
+date: 2024-01-15
 links:
   - type: site
-    url: https://github.com/pandas-dev/pandas
+    url: https://github.com/virzzu
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - Python
+  - Data Analysis
+  - Bioinformatics
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Data wrangling, statistical analysis, and visualization projects using Python and R for biological datasets.
 
 <!--more-->

@@ -2,115 +2,157 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Virginia García-Loygorri Arias
+  given: Virginia
+  family: García-Loygorri Arias
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  pronouns: she/her
 postnominals:
-  - PhD
-  - MIEEE
+  - MSc
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "🧬"
+role: Bioinformatics | Biochemistry | Data Science
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Virginia is a curious and proactive bioinformatics professional with a passion for science
+  and integrating biosciences with technology. With a strong foundation in biochemistry and
+  growing expertise in data analysis and machine learning, she is committed to continuous
+  learning and collaborative problem-solving. An accomplished athlete and outdoor enthusiast,
+  Virginia brings discipline, resilience, and teamwork to every project.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: International University of La Rioja (UNIR)
+    url: https://www.unir.net/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:virxxu@gmail.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/virzzu
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/virginia-garcía-loygorri/
+  - icon: brands/phone
+    url: tel:+34671773093
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Bioinformatics & Computational Biology
+  - Machine Learning & Data Analysis
+  - Precision Medicine
+  - Innovative Integration of Biosciences & Technology
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: MSc in Bioinformatics
+    institution: International University of La Rioja (UNIR)
+    start: 2025-09-01
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      Currently pursuing advanced studies in bioinformatics with focus on data analysis, AI, and machine learning.
+      Skills: R, Python, Data Analysis, Artificial Intelligence
+  - degree: BSc in Biochemistry
+    institution: Complutense University of Madrid (UCM)
+    start: 2020-09-01
+    end: 2025-06-30
+    summary: |
+      Strong foundation in molecular biology, research methodology, and laboratory techniques.
+      Skills: Molecular Biology, Research, Laboratory Work, Results Analysis
+  - degree: Bachibac (Spanish Baccalaureate + French Baccalauréat)
+    institution: IES Condesa Eylo Alfonso
+    start: 2019-09-01
+    end: 2020-06-30
+  - degree: International Academic Year (11th Grade)
+    institution: A&M Consolidated High School
+    start: 2018-08-01
+    end: 2019-05-31
+    summary: Exchange year in College Station, Texas, USA
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Scientific Research Assistant
+    org: Department of Nutrition, Faculty of Pharmacy, Complutense University of Madrid
+    start: 2024-09-01
+    end: 2025-06-30
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Led research on hepatoprotective effects of silicon in type 2 diabetes using female rat models.
+      Designed and executed enzymatic activity assays, histology, histochemistry, and Western Blot experiments.
+      Performed statistical analysis using GraphPad, SPSS, and Excel. Contributed to scientific writing.
+  - role: Ski Instructor
+    org: Spanish Ski School, La Pinilla
+    start: 2024-01-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Taught skiing to adults and children, demonstrating communication and adaptability skills.
+  - role: Camp Leader
+    org: Capitán Cook SGD / Emozion Viajes & Viajes Encamino
+    start: 2024-01-01
+    summary: |
+      Led overnight and urban camps for primary to high school students, developing leadership and teamwork skills.
+  - role: Junior Promoter – Insurance Mediation and Distribution
+    org: Ahorro y Protección, Grupo Galilea
+    start: 2021-03-01
+    end: 2023-01-31
 
 skills:
-  - name: Technical Skills
+  - name: Programming & Technical
     items:
       - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
         level: 4
-  - name: Research & Communication
+      - label: R
+        level: 4
+      - label: Linux
+        level: 3
+      - label: C
+        level: 3
+  - name: Research & Analysis
     items:
-      - label: Academic Writing
+      - label: Data Analysis
+        level: 4
+      - label: Machine Learning
+        level: 3
+      - label: Laboratory Techniques
+        level: 4
+      - label: Statistical Analysis
+        level: 4
+  - name: Professional Skills
+    items:
+      - label: Leadership & Teamwork
         level: 5
-      - label: Conference Presentations
+      - label: Clear Communication
         level: 4
-      - label: Grant Proposals
+      - label: Creative Problem-Solving
         level: 4
+      - label: Adaptability
+        level: 5
 
 languages:
-  - name: English
+  - name: Spanish
     level: 5
     label: Native
-  - name: Spanish
+  - name: English
+    level: 5
+    label: C1 (Proficient)
+  - name: French
     level: 4
-    label: Fluent
+    label: B2 (Upper-Intermediate)
+  - name: German
+    level: 1
+    label: Learning
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Overall Champion of Castile and León
+    awarder: Mountain Bike Downhill
+    date: "2018-12-01"
+    summary: Competitive mountain biking achievement in downhill category.
+    icon: hero/trophy
+  - title: Spanish Open Champion
+    awarder: Mountain Bike Downhill (Cadet Category)
+    date: "2018-12-01"
+    summary: Won the Spanish Open in the Cadet category for downhill mountain biking.
+    icon: hero/trophy
+  - title: Spanish National Champion
+    awarder: Mountain Bike Downhill (Under-23 Category)
+    date: "2021-12-01"
+    summary: National championship title in the Under-23 category.
+    icon: hero/trophy
+  - title: Overall Champion of Madrid
+    awarder: Mountain Bike Downhill
+    date: "2023-12-01"
+    summary: Regional champion for mountain bike downhill in Madrid.
     icon: hero/trophy
